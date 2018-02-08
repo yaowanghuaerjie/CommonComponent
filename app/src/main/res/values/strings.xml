@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CommonBaseComponent</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="message_fragment">Hello message fragment</string>
+    <string name="mine_fragment">Hello mine fragment</string>
+</resources>
