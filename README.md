@@ -1,2 +1,2 @@
 # CommonComponent
-MVP for android
+Component for android
